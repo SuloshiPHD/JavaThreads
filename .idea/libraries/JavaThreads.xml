@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JavaThreads">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/JavaThreads.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
