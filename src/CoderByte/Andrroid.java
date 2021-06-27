@@ -1,8 +1,8 @@
 package CoderByte;
 
-public class Andrroid {
+public class Andrroid implements OS {
 
-    void spec(){
+    public void spec(){
         System.out.println("Most powerful OS");
     }
 }
